@@ -32,9 +32,15 @@ search a n umber using binary search method output
 
 program 10:
 stack operation output
+![Screenshot (49)](https://user-images.githubusercontent.com/113018345/192568920-c471bfb0-1823-4dec-a9af-a8a37fa28979.png)
+
 
 program 11:
 queue operation output
+![Screenshot (50)](https://user-images.githubusercontent.com/113018345/192569094-ab435419-9822-4932-bbbc-2695fc32c502.png)
 
 program 12:
 infinix to postfix expression output
+![Screenshot (51)](https://user-images.githubusercontent.com/113018345/192569361-4ca55810-90e7-43a4-9df9-f99c4a20ec31.png)
+
+
