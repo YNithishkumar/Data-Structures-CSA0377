@@ -47,5 +47,13 @@ program 13:
 insertion sorting output
 ![Screenshot (52)](https://user-images.githubusercontent.com/113018345/192717212-156d2a90-a140-44d6-bbfe-d1b57cbe5ece.png)
 
+program 14:
+merge sorting output
+![merge sort](https://user-images.githubusercontent.com/113018345/192730851-69b45ca6-f661-4e55-b946-958797e50820.png)
+
+program 15:
+quick sorting output
+![quick sort](https://user-images.githubusercontent.com/113018345/192731055-f03a0e29-9ac6-4e08-8810-6e6dfd100de1.png)
+
 
 
