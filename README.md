@@ -60,3 +60,6 @@ heap sorting output
 ![Screenshot (55)](https://user-images.githubusercontent.com/113018345/192806077-d32824ef-c9d0-4fd9-b892-98e778950cff.png)
 
 program 17:
+linked list output
+![Screenshot (57)](https://user-images.githubusercontent.com/113018345/192964029-333f572c-1eef-42a2-a5eb-40ce801f852e.png)
+
