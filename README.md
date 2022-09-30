@@ -63,3 +63,8 @@ program 17:
 linked list output
 ![Screenshot (57)](https://user-images.githubusercontent.com/113018345/192964029-333f572c-1eef-42a2-a5eb-40ce801f852e.png)
 
+program 19:
+linear probing in hashing output
+![Screenshot (59)](https://user-images.githubusercontent.com/113018345/193189655-c752fdf2-67e6-4381-992f-373e6f42d6ee.png)
+
+
