@@ -63,8 +63,20 @@ program 17:
 linked list output
 ![Screenshot (57)](https://user-images.githubusercontent.com/113018345/192964029-333f572c-1eef-42a2-a5eb-40ce801f852e.png)
 
+
+program 18:
+binary search tree output:
+![Screenshot (60)](https://user-images.githubusercontent.com/113018345/193379780-27daec10-3e70-4ed7-af3d-29f044c16be6.png)
+
+
 program 19:
 linear probing in hashing output
 ![Screenshot (59)](https://user-images.githubusercontent.com/113018345/193189655-c752fdf2-67e6-4381-992f-373e6f42d6ee.png)
+
+program 20:
+graph,bfs dfs output:
+![Screenshot (61)](https://user-images.githubusercontent.com/113018345/193379770-55ccfe2b-c92e-4482-8651-00b9f3ac112d.png)
+
+
 
 
